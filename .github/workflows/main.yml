@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - master
+      - main
 name: 🚀 Deploy Application on push Buja Deal
 jobs:
   web-deploy:
